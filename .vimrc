@@ -1,7 +1,7 @@
 set rnu
 syntax enable
 colorscheme monokai
-set tabstop=4
+set tabstop=2
 
 set number
 set incsearch
